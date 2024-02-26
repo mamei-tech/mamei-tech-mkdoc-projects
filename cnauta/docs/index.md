@@ -77,7 +77,10 @@ This project is licensed under the [GNU GENERAL PUBLIC LICENSE](./LICENSE).
 
 
 
-* [Partes del sistema](section/tutorial.md#componentes-del-sistema-vot-e)
-* [Manual del usuario](section/tutorial.md)
-* [Glosario](glossary.md)
-* [Sobre nosotros](about.md)
+[//]: # (* [Partes del sistema]&#40;section/tutorial.md#componentes-del-sistema-vot-e&#41;)
+
+[//]: # (* [Manual del usuario]&#40;section/tutorial.md&#41;)
+
+[//]: # (* [Glosario]&#40;glossary.md&#41;)
+
+[//]: # (* [Sobre nosotros]&#40;about.md&#41;)
