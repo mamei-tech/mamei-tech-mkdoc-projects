@@ -7,6 +7,9 @@
 
 ![Screenshot](assets/images/ico-signal.ico)
 
+## Download
+[latest (Recomended For Most Users)](https://github.com/mamei-tech/cnauta/releases/latest){ .md-button .md-button--primary }
+
 En cuba existe un único ISP. A suscribirte a su servicio de internet en el hogar (Nauta Hogar), puedes acceder a internet a través de un portal [web] cautivo por una cantidad de horas determinada. En consecuencia, acceder a internet implica, generalmente, man
 
 **pero**

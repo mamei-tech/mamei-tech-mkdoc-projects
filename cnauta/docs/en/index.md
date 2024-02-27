@@ -7,6 +7,10 @@
 
 ![Screenshot](assets/images/ico-signal.ico)
 
+## Download
+[latest (Recomended For Most Users)](https://github.com/mamei-tech/cnauta/releases/latest){ .md-button .md-button--primary }
+
+
 _In Cuba, there is only one ISP that offers home internet service (Nauta Hogar), which provides access to the internet through a captive web portal for a limited number of hours._
 
 **but**
