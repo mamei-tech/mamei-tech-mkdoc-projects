@@ -180,3 +180,6 @@ cython_debug/
 # ignore site build directory
 /*/site/
 /template/
+/cnauta/generated/*
+!/cnauta/generated/.gitkeep
+

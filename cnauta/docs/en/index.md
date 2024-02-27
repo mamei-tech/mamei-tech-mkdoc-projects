@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/reposize-3.4MB-inactive?style=flat)
 
 
-![Screenshot](../../overrides/assets/images/ico-signal.ico)
+![Screenshot](assets/images/ico-signal.ico)
 
 _In Cuba, there is only one ISP that offers home internet service (Nauta Hogar), which provides access to the internet through a captive web portal for a limited number of hours._
 

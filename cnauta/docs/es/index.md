@@ -5,7 +5,7 @@
 ![](https://img.shields.io/badge/reposize-3.4MB-inactive?style=flat)
 
 
-![Screenshot](../../overrides/assets/images/ico-signal.ico)
+![Screenshot](assets/images/ico-signal.ico)
 
 En cuba existe un único ISP. A suscribirte a su servicio de internet en el hogar (Nauta Hogar), puedes acceder a internet a través de un portal [web] cautivo por una cantidad de horas determinada. En consecuencia, acceder a internet implica, generalmente, man
 
