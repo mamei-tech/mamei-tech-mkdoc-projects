@@ -25,11 +25,11 @@ pip install mkdocs[i18n]
 
 To start the server, run:
  ```bash
-mkdocs build
+mkdocs build -f config/en/mkdocs.yml
 ```
 
 
 To build the site:
  ```bash
-mkdocs serve
+mkdocs serve -f config/en/mkdocs.yml
 ```
