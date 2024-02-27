@@ -179,3 +179,4 @@ cython_debug/
 
 # ignore site build directory
 /*/site/
+/template/

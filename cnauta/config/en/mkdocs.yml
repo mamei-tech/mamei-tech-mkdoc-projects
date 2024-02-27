@@ -1,0 +1,37 @@
+site_name: CNAUTA documentation
+site_description: Documentation of the CNAUTA application, which allows users to easily interact with Etecsa's Nauta portal.
+site_author: mamei development group
+
+nav:
+  - Inicio: index.md
+  - Glosario: glossary.md
+  - ¿Quienes somos?: about.md
+
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+
+theme:
+  name: material
+  # name: readthedocs
+  language: en
+
+extra:
+  alternate:
+    # Switch to English
+    - name: English
+      link: /en/
+      lang: en
+
+    # Switch to Spanish
+    - name: Español
+      link: /es/
+      lang: es
+
+plugins:
+  - search:
+      lang: en                                      # Set language for search

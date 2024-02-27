@@ -1,0 +1,56 @@
+site_name: Documentación de CNAUTA
+site_description: Documentación de la aplicación CNAUTA, que permite a los usuarios interactuar fácilmente con el portal Nauta de Etecsa.
+site_author: mamei development group
+
+docs_dir: '../../docs/es'                           # Where to find the Spanish markdown files
+site_dir: '../../generated/es'                      # Where to put the Spanish HTML files
+
+# use_directory_urls: false
+# repo_url: https://github.com/delineas/mkdocs-demo/
+
+theme:
+  name: material
+  # name: readthedocs
+  logo: ../../overrides/assets/images/ico-signal.ico
+  favicon: ../../overrides/assets/images/ico-signal.ico
+  language: es
+
+extra_css:
+  - assets/stylesheets/yesplan.css                  # CSS is shared by all languages
+
+# extra_javascript:
+#     - https://unpkg.com/mermaid/dist/mermaid.min.js
+
+extra:
+  alternate:
+    # Switch to English
+    - name: English
+      link: /en/
+      lang: en
+
+    # Switch to Spanish
+    - name: Español
+      link: /es/
+      lang: es
+
+
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - attr_list
+  - md_in_html
+
+plugins:
+  - search:
+      lang: es                                      # Set language for search
+
+nav:
+  - Inicio: index.md
+  # - Secciones importantes:
+      # - Partes del sistema: section/partes_sistema.md
+#  - Manual del usuario: section/tutorial.md
+  - Glosario: glossary.md
+  - ¿Quienes somos?: about.md
+
+
